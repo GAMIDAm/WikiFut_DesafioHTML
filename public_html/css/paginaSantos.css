@@ -1,0 +1,8 @@
+.mascoteSantos, .estadioSantos {
+    float: right;
+    background-color: white;
+    border: solid 1px #999999;
+}
+figcaption {
+    border: solid 1px black;
+}

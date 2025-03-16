@@ -1,0 +1,23 @@
+.mascotePeriquito {
+    float: left;
+}
+.mascotePorco {
+    float: right;
+}
+.mascotePeriquito, .mascotePorco {
+    background-color: white;
+    border: solid 1px #999999;
+}
+figcaption {
+    border: solid 1px black;
+}
+
+.palestraItalia, .allianz {
+    float: right;
+    margin-right: 0px;
+    background-color: white;
+    border: solid 1px #999999;
+}
+.palestraItalia {
+    width: 300px;
+}

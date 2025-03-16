@@ -1,0 +1,18 @@
+.mosqueteiro, .saoJorge {
+    float: right;
+    background-color: white;
+    border: solid 1px #999999;
+    margin-right: 0px;
+}
+figcaption {
+    border: solid 1px black;
+}
+.saoJorge {
+    width: 300px;
+}
+.arenaCorinthians {
+    float: left;
+    margin-right: 0px;
+    background-color: white;
+    border: solid 1px #999999;
+}

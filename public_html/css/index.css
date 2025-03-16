@@ -1,0 +1,13 @@
+.mascoteSPFC, .estadioSPFC {
+    float: right;
+    border: solid 1px #999999;
+}
+.mascoteSPFC, .estadioSPFC figcaption {
+    background-color: white;
+}
+.mascoteSPFC, .estadioSPFC img {
+    background-color: white;
+}
+figcaption {
+    border: solid 1px black;
+}
